@@ -1,0 +1,27 @@
+{
+    "cliente": {
+        "nome": "Ana Costa",
+        "idade": 28,
+        "profissao": "Designer Gráfico",
+        "renda_mensal": 4500,
+        "perfil_investidor": "Conservador",
+        "metas": [
+            {
+                "id": 1,
+                "nome_meta": "Viagem de Férias (Nordeste)",
+                "valor_objetivo": 5000,
+                "valor_atual_poupado": 1200,
+                "prazo_meses": 8,
+                "status": "Em andamento"
+            },
+            {
+                "id": 2,
+                "nome_meta": "Reserva de Emergência",
+                "valor_objetivo": 13500,
+                "valor_atual_poupado": 4500,
+                "prazo_meses": 18,
+                "status": "Em andamento"
+            }
+        ]
+    }
+}
